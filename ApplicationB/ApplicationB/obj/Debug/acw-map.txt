@@ -1,0 +1,4 @@
+ApplicationB.MainActivity, ApplicationB;ApplicationB.ApplicationB.MainActivity
+ApplicationB.MainActivity, ApplicationB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;ApplicationB.ApplicationB.MainActivity
+ApplicationB.MainActivity;ApplicationB.ApplicationB.MainActivity
+ApplicationB.ApplicationB.MainActivity;ApplicationB.ApplicationB.MainActivity
